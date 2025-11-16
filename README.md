@@ -1,10 +1,10 @@
 # 🚀 Repositório de Atividades e Portfólio Profissional | Gabriel Alves
 
-Olá! Seja bem-vindo(a) ao meu repositório centralizado, criado como parte das atividades do **Bootcamp I CEUB 2025**[cite: 75, 76]. Este espaço demonstra minhas habilidades em versionamento com Git e GitHub, e armazena meus projetos acadêmicos e pessoais[cite: 84].
+Olá! Seja bem-vindo(a) ao meu repositório centralizado, criado como parte das atividades do **Bootcamp I CEUB 2025**. Este espaço demonstra minhas habilidades em versionamento com Git e GitHub, e armazena meus projetos acadêmicos e pessoais
 
 ## 🎯 Objetivo do Repositório (Desafio Intermediário)
 
-[cite_start]O principal objetivo deste repositório é desenvolver um perfil profissional robusto [cite: 84][cite_start], aplicando as melhores práticas de versionamento, organização de projetos e documentação[cite: 85, 90].
+O principal objetivo deste repositório é desenvolver um perfil profissional robusto , aplicando as melhores práticas de versionamento, organização de projetos e documentação.
 
 * **Versionamento:** Utilização de `git commit` com mensagens claras e `branches` para isolar funcionalidades.
 * **Organização:** Estrutura de diretórios organizada por tipo de projeto.
